@@ -70,6 +70,9 @@
       'localize' => false,
       'options' => 
       array (
+        'link' => 'authors',
+        'multiple' => true,
+        'display' => 'name',
       ),
       'width' => '1-1',
       'lst' => true,
@@ -81,7 +84,7 @@
   'sortable' => false,
   'in_menu' => false,
   '_created' => 1567283041,
-  '_modified' => 1567283130,
+  '_modified' => 1567432823,
   'color' => '',
   'acl' => 
   array (

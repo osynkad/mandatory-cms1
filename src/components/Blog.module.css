@@ -1,0 +1,39 @@
+.article {
+
+}
+
+.article__post {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid black;
+  font-size: 75%;
+  width: 980px;
+  height: 420px;
+  overflow: hidden;
+}
+
+.article__post-title {
+  font-size: 32px;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+}
+
+.article__post-title:hover {
+  color: black;
+}
+
+.article__post-title:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.article__post-published {
+
+}
+
+.article__post-authors {
+
+}
+
+

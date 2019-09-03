@@ -1,0 +1,17 @@
+.App {
+  padding: 20px;
+}
+
+.header {
+  background-color: #d7d3ff;
+  width: 100%;
+  height: 8vh;
+}
+
+.link {
+  text-decoration: none;
+  padding: 30px;
+  line-height: 8vh;
+  font-weight: bold;
+  font-size: 22px;
+}
