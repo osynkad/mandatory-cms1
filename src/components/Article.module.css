@@ -1,26 +1,15 @@
-.article {
-
-}
-
 .article__post {
   margin: 20px;
   padding: 10px;
   border: 1px solid black;
   font-size: 75%;
   width: 980px;
+  background-color: white;
 }
 
 .article__post-title {
   font-size: 32px;
   font-weight: bold;
-}
-
-.article__post-published {
-
-}
-
-.article__post-authors {
-
 }
 
 

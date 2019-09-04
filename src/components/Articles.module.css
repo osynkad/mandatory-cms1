@@ -1,39 +1,34 @@
-.article {
-
+.articles__page {
+  padding-left: 20px;
 }
 
-.article__post {
+.articles__post {
   margin: 20px;
   padding: 10px;
   border: 1px solid black;
   font-size: 75%;
   width: 980px;
-  height: 420px;
+  max-height: 420px;
   overflow: hidden;
+  background-color: white;
 }
 
-.article__post-title {
+.articles__post-title {
   font-size: 32px;
   font-weight: bold;
   text-decoration: none;
   color: black;
 }
 
-.article__post-title:hover {
-  color: black;
-}
-
-.article__post-title:hover {
+.articles__post-title:hover {
   text-decoration: underline;
   cursor: pointer;
 }
 
-.article__post-published {
-
+.articles__button {
+  margin: 20px;
 }
 
-.article__post-authors {
 
-}
 
 
